@@ -7,4 +7,4 @@ Project was developed in Java using FXML and CSS files to create an interactive 
 
 <h2><strong>Application GUI:</strong></h2> 
 
-<image src="Images/coffee-shop-screen.PNG" width="400" height="600"/>
+<image src="Images/coffee-shop-screen.PNG" width="500" height="500"/>

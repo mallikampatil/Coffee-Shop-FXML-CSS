@@ -1,0 +1,14 @@
+#functionButton {
+	-fx-background-color: teal; 
+	-fx-background-radius: 100;
+}
+
+#backButton {
+	-fx-background-color: a2cdb8; 
+	-fx-background-radius: 100;
+}
+
+#addonButton {
+	-fx-background-color: df4937;
+	-fx-background-radius: 100;
+}
